@@ -1,4 +1,4 @@
-## Slime lazy src
+# Slime lazy src
 ### Clone this
 ```cmd
 git clone https://github.com/kingslimes/slime-lazy-src.git
