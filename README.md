@@ -8,7 +8,6 @@ git clone https://github.com/kingslimes/slime-lazy-src.git
 https://kingslimes.github.io/docs/js/slime.lazy.min.js
 ```
 ### ตัวอย่างการใช้งาน
->**example:**
 ```html
 <img slime-lazy-src="image.jpg" />
 ```
