@@ -1,5 +1,5 @@
-## How to use slime-lazy-src
-### Add attribute **slime-src**
+## Slime lazy page
+### Add attribute **slime-lazy-src**
 >**example:**
 ```html
 <img slime-lazy-src="source_images" />
