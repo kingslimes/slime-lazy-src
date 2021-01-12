@@ -1,4 +1,8 @@
 ## Slime lazy page
+### Download
+```git
+git clone https://github.com/kingslimes/slime-lazy-src.git
+```
 ### Add attribute **slime-lazy-src**
 >**example:**
 ```html
