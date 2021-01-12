@@ -2,9 +2,9 @@
 ### Add attribute **slime-src**
 >**example:**
 ```html
-<img slime-src="source_images" />
+<img slime-lazy-src="source_images" />
 <video>
-  <source slime-src="video.mp4" />
+  <source slime-lazy-src="video.mp4" />
 </video>
 ```
 ### Support tag
@@ -13,3 +13,6 @@
 - [x] video
 - [x] iframe
 - [x] embed
+### Donate
+- Wallet: 0832581146
+- Airpay: 0832581146
