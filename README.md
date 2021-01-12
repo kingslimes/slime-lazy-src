@@ -1,18 +1,22 @@
-## Slime lazy page
-### Download
-```git
+## Slime lazy src
+### ดาวน์โหลด
+```cmd
 git clone https://github.com/kingslimes/slime-lazy-src.git
 ```
-### Add attribute **slime-lazy-src**
+### CDN code
+```url
+https://kingslimes.github.io/docs/js/slime.lazy.min.js
+```
+### ตัวอย่างการใช้งาน
 >**example:**
 ```html
 <img slime-lazy-src="image.jpg" />
 ```
-### Support tag
+### สามารถนำไปใช้กับแทค
 - img
 - video
 - embed
 - iframe
-### Donate
+### โดเนท
 - Wallet: 0832581146
 - Airpay: 0832581146
