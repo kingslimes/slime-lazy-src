@@ -1,21 +1,21 @@
 ## Slime lazy src
-### ดาวน์โหลด
+### Clone this
 ```cmd
 git clone https://github.com/kingslimes/slime-lazy-src.git
 ```
 ### CDN code
 ```url
-https://kingslimes.github.io/docs/js/slime.lazy.min.js
+https://kingslimes.github.io/slime.lazy.min.js
 ```
-### ตัวอย่างการใช้งาน
+### Sample
 ```html
 <img slime-lazy-src="image.jpg" />
 ```
-### สามารถนำไปใช้กับแทค
+### Using tag
 - img
 - video
 - embed
 - iframe
-### โดเนท
+### Danate
 - Wallet: 0832581146
 - Airpay: 0832581146
